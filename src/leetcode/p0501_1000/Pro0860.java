@@ -6,7 +6,7 @@ package leetcode.p0501_1000;
  * @author cszxyang
  * @since 2020-03-04
  */
-public class Pro_0860 {
+public class Pro0860 {
 
     static class Solution {
 

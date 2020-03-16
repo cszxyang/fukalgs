@@ -5,7 +5,7 @@ package leetcode.p0001_0500;
  * @author cszxyang
  * @since 2020-03-04
  */
-public class Pro_0134 {
+public class Pro0134 {
     static class Solution {
         public int canCompleteCircuit(int[] gas, int[] cost) {
             int totalTank = 0, currTank = 0, startingStation = 0;

@@ -1,6 +1,6 @@
 package leetcode.p0001_0500;
 
-public class Pro_0121 {
+public class Pro0121 {
 
     static class Solution {
         public int maxProfit(int[] prices) {

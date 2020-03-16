@@ -10,7 +10,7 @@ import java.util.HashSet;
  * @author cszxyang
  * @since 2020-03-04
  */
-public class Pro_0083 {
+public class Pro0083 {
     static class Solution {
         public ListNode deleteDuplicates(ListNode head) {
             HashSet<Integer> set = new HashSet<>();

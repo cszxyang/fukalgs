@@ -1,6 +1,9 @@
 package leetcode.p1001_1500;
 
-public class Pro_1381 {
+/**
+ * @author cszxyang
+ */
+public class Pro1381 {
 
     class CustomStack {
 
