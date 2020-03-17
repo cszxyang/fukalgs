@@ -3,7 +3,7 @@ package leetcode.p0001_0500;
 import java.util.HashMap;
 
 /**
- * @author yzx
+ * @author cszxyang
  */
 public class Pro0001 {
     /**
