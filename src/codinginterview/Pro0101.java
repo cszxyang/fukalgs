@@ -3,7 +3,7 @@ package codinginterview;
 /**
  * @author yzx
  */
-public class Pro001 {
+public class Pro0101 {
     class Solution {
         public boolean isUnique(String astr) {
             boolean[] b = new boolean[128];
@@ -51,5 +51,4 @@ public class Pro001 {
             return true;
         }
     }
-
 }
