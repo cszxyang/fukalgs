@@ -1,7 +1,7 @@
 package base;
 
 /**
- * @author yzx
+ * @author cszxyang
  */
 public class ListNode {
     public int val;
